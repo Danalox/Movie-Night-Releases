@@ -7,8 +7,9 @@ Apple TV Sideload repo URL (works with Sideloadly only!)
 (add this to sources in Sideloadly)
 https://movienight.is/movienight-Tv-repo.json
 
-Apple iOS Sideload repo URL (works with Sideloadly, Sidestore, Altstore)
-(add this to sources in your chosen store)
+JSON repo links (IOS)
+
+IOS app Altstore Classic sideload repo
 https://movienight.is/movienight-ios-Altstore-classic.json
 
 AppDB (iOS)
