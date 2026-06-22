@@ -9,6 +9,9 @@ JSON repo links (IOS)
 IOS app Altstore Classic sideload repo
 https://movienight.is/movienight-ios-Altstore-classic.json
 
+iOS app Sideloadly repo
+https://movienight.is/movienight-ios-sideloadly.json
+
 Apple TV Sideload repo URL (works with Sideloadly only!)
 (add this to sources in Sideloadly)
 https://movienight.is/movienight-Tv-repo.json
