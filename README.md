@@ -22,7 +22,7 @@ https://github.com/Danalox/Movie-Night-Releases/releases/download/Android/MovieN
 
 AppDB (iOS)
 
-https://appdb.to/details/dcf7487fda96c80e014ce17a7607f75779b182bf
+https://appdb.to/details/fc3ef7a4317c69d577869390d1485720135709fc
 
 AppDB (Apple TV)
 
